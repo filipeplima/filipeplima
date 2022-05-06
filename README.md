@@ -3,12 +3,12 @@
 ### I'm Filipe Perdigão, FrontEnd Software Developer!
 
 <div>
-<a href="https://github.com/filipeplima">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?      username=filipeplima&show_icons=false=dracula&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/filipeplima"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=filipeplima&show_icons=false=dracula&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeplima&layout=compact&langs_count=16&theme=dark">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeplima&layout=compact&langs_count=16&theme=dark"/>
+
   </div>
-  
   
   <div style="display: inline_block"><br>
 
